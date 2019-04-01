@@ -2,6 +2,12 @@
 Release Notes
 =============
 
+WaiverDB 1.0.0
+==============
+
+* Replace fedmsg with fedora-messaging
+* Don't validate the CA of the server when downloading a custom CA when the
+  container starts
 
 WaiverDB 0.14.1
 ===============
